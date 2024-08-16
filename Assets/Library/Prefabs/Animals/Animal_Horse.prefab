@@ -6894,11 +6894,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   topBound: 50
-  lowerBound: -5
+  lowerBound: -2
   amountToFed: 2
   score: 5
   Dscore: 10
-  animalPrefab: {fileID: 0}
   hungerSlider: {fileID: 1800386074387036913}
   hurtSound: Hurt
 --- !u!1 &9223261135162767196

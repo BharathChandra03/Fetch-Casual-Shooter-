@@ -13,8 +13,6 @@ public class AnimalHunger : MonoBehaviour
     [SerializeField] private int score;
     [SerializeField] private int Dscore;
 
-    //public GameObject animalPrefab;
-
     private int currentAmountFed = 0;
     private int resetAmount = 0;
     private int minValue = 0;
@@ -24,10 +22,6 @@ public class AnimalHunger : MonoBehaviour
     private AudioManager audioManager;
 
     public string hurtSound = "Hurt";
-    //public string foodSound = "Food";
-
-    //[SerializeField] private int amount;
-
 
     // Start is called before the first frame update
     void Start()

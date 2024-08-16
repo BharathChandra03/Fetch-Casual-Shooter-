@@ -111,5 +111,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  topBound: 30
-  lowerBound: -5
+  topBound: 50
+  lowerBound: -2
